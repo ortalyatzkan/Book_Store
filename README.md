@@ -14,4 +14,4 @@ the user can buy book and the admin can edit the list of book.
 <p>
   The site use bootstrap CDN therefore assumes an internet connection is available.
 </p>
-"# Book_Store_Ortal_Yatzkan_Michal_Libov" 
+"# Book_Store_Ortal_Yatzkan" 
